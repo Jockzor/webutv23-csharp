@@ -1,0 +1,14 @@
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.exe
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.deps.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.runtimeconfig.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.AssemblyInfoInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.AssemblyInfo.cs
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.csproj.CoreCompileInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\refint\04_ClassesAndLists.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.genruntimeconfig.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\ref\04_ClassesAndLists.dll

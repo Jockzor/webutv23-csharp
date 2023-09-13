@@ -1,0 +1,14 @@
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\bin\Debug\net7.0\03_LoopAndConditions.exe
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\bin\Debug\net7.0\03_LoopAndConditions.deps.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\bin\Debug\net7.0\03_LoopAndConditions.runtimeconfig.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\bin\Debug\net7.0\03_LoopAndConditions.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\bin\Debug\net7.0\03_LoopAndConditions.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\obj\Debug\net7.0\03_LoopAndConditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\obj\Debug\net7.0\03_LoopAndConditions.AssemblyInfoInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\obj\Debug\net7.0\03_LoopAndConditions.AssemblyInfo.cs
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\obj\Debug\net7.0\03_LoopAndConditions.csproj.CoreCompileInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\obj\Debug\net7.0\03_LoopAndConditions.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\obj\Debug\net7.0\refint\03_LoopAndConditions.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\obj\Debug\net7.0\03_LoopAndConditions.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\obj\Debug\net7.0\03_LoopAndConditions.genruntimeconfig.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-3\03_LoopAndConditions\obj\Debug\net7.0\ref\03_LoopAndConditions.dll

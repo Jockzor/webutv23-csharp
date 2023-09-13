@@ -1,0 +1,14 @@
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\bin\Debug\net7.0\Classes_Inheritance.exe
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\bin\Debug\net7.0\Classes_Inheritance.deps.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\bin\Debug\net7.0\Classes_Inheritance.runtimeconfig.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\bin\Debug\net7.0\Classes_Inheritance.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\bin\Debug\net7.0\Classes_Inheritance.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\obj\Debug\net7.0\Classes_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\obj\Debug\net7.0\Classes_Inheritance.AssemblyInfoInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\obj\Debug\net7.0\Classes_Inheritance.AssemblyInfo.cs
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\obj\Debug\net7.0\Classes_Inheritance.csproj.CoreCompileInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\obj\Debug\net7.0\Classes_Inheritance.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\obj\Debug\net7.0\refint\Classes_Inheritance.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\obj\Debug\net7.0\Classes_Inheritance.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\obj\Debug\net7.0\Classes_Inheritance.genruntimeconfig.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-4\Classes_Inheritance\obj\Debug\net7.0\ref\Classes_Inheritance.dll

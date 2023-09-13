@@ -1,0 +1,14 @@
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\bin\Debug\net7.0\01_Exercisse.exe
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\bin\Debug\net7.0\01_Exercisse.deps.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\bin\Debug\net7.0\01_Exercisse.runtimeconfig.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\bin\Debug\net7.0\01_Exercisse.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\bin\Debug\net7.0\01_Exercisse.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\obj\Debug\net7.0\01_Exercisse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\obj\Debug\net7.0\01_Exercisse.AssemblyInfoInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\obj\Debug\net7.0\01_Exercisse.AssemblyInfo.cs
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\obj\Debug\net7.0\01_Exercisse.csproj.CoreCompileInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\obj\Debug\net7.0\01_Exercisse.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\obj\Debug\net7.0\refint\01_Exercisse.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\obj\Debug\net7.0\01_Exercisse.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\obj\Debug\net7.0\01_Exercisse.genruntimeconfig.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-5\01_Exercisse\obj\Debug\net7.0\ref\01_Exercisse.dll
