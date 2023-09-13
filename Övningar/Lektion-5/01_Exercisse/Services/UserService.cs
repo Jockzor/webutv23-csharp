@@ -18,9 +18,11 @@ internal class UserService : IUserService
             LastName = userCreateRequest.LastName,  
             Email = userCreateRequest.Email,    
         });
-
+        
         // Lösenordet får vi hantera separat, av säkerhetsskäl
     }
+
+  
 
     public IEnumerable<User> GetAllUsers()
     {
@@ -36,9 +38,15 @@ internal class UserService : IUserService
     {
         
         var user = _listOfUsers.FirstOrDefault(expression, null!);
-        
-            return user;
 
-        
+        return user;
+
+
+    }
+
+    User IUserService.DeleteUser(User user)
+    {
+        _listOfUsers.Remove(user);
+        return null!;
     }
 }

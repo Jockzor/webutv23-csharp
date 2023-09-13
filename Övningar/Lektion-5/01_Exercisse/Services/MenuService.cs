@@ -22,7 +22,7 @@ internal class MenuService : IMenuService
         do
         {
             Console.Clear();
-            Console.WriteLine("1. Skapa en ny användare\n2. Visa en specifik användare\n3. Visa alla användare\n0. Avsluta");
+            Console.WriteLine("1. Skapa en ny användare\n2. Visa en specifik användare\n3. Visa alla användare\n4. Ta bort användare\n0. Avsluta");
             Console.Write("Välj ett av ovanstående alternativ (0-4): ");
             var option = Console.ReadLine();
             switch(option)
@@ -35,6 +35,9 @@ internal class MenuService : IMenuService
                     break;
                     case "3":
                     ListAllMenu();
+                    break;
+                    case "4":
+                        EraseSpecificUser();
                     break;
                     case "0":
                     exit = true;
@@ -78,11 +81,18 @@ internal class MenuService : IMenuService
         Console.WriteLine("Alla användare");
     
         Console.WriteLine("--------------");
-
-        foreach(var user in  _userService.GetAllUsers()) 
+        if (!_userService.GetAllUsers().Any()) // Bättre sätt att göra detta på?
+              Console.WriteLine("Inga användare tillagda.");
+            
+        
+        else
         {
-            Console.WriteLine($"{user.FirstName} {user.LastName} <{user.Email}>");
+            foreach (var user in _userService.GetAllUsers())
+            {
+                Console.WriteLine($"{user.FirstName} {user.LastName} <{user.Email}>");
+            }
         }
+        
         Console.ReadKey ();
     }
 
@@ -101,6 +111,26 @@ internal class MenuService : IMenuService
             Console.WriteLine($"Kunde inte hitta någon användare med e-postadressen {email}");
 
         Console.ReadKey ();
+    }
+
+    public void EraseSpecificUser()
+    {
+        Console.Clear();
+        Console.WriteLine("Ta bort användare");
+        Console.WriteLine("-----------------");
+        Console.Write("Skriv in e-postadressen på den användare du vill ta bort: ");
+        var email = Console.ReadLine()!.Trim().ToLower();
+        var user = _userService.GetUser(user => user.Email == email);
+
+        if (user != null)
+        {
+            _userService.DeleteUser(user);
+            Console.WriteLine($"Användaren {user.FirstName} {user.LastName} togs bort.");
+        }
+        else
+            Console.WriteLine($"Kunde inte hitta någon användare med e-postadressen {email}");
+
+        Console.ReadKey();
     }
     
 

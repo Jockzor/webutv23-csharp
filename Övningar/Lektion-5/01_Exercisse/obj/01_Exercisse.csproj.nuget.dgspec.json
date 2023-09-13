@@ -14,8 +14,7 @@
         "outputPath": "C:\\Nackademin\\C-Sharp\\Övningar\\Lektion-5\\01_Exercisse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\jolle\\AppData\\Roaming\\NuGet\\NuGet.Config",
