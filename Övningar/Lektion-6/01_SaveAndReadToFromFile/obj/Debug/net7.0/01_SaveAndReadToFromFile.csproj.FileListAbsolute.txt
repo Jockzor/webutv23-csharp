@@ -1,0 +1,17 @@
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.exe
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.deps.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.runtimeconfig.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.csproj.AssemblyReference.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.AssemblyInfoInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.AssemblyInfo.cs
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.csproj.CoreCompileInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.csproj.CopyComplete
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\refint\01_SaveAndReadToFromFile.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.genruntimeconfig.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\ref\01_SaveAndReadToFromFile.dll

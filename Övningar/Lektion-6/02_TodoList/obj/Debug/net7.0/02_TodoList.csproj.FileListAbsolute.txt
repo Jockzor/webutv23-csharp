@@ -1,0 +1,14 @@
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\bin\Debug\net7.0\02_TodoList.exe
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\bin\Debug\net7.0\02_TodoList.deps.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\bin\Debug\net7.0\02_TodoList.runtimeconfig.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\bin\Debug\net7.0\02_TodoList.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\bin\Debug\net7.0\02_TodoList.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.AssemblyInfoInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.AssemblyInfo.cs
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.csproj.CoreCompileInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\obj\Debug\net7.0\refint\02_TodoList.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.genruntimeconfig.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-6\02_TodoList\obj\Debug\net7.0\ref\02_TodoList.dll
