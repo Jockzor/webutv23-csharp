@@ -1,0 +1,14 @@
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\bin\Debug\net7.0\03_Records.exe
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\bin\Debug\net7.0\03_Records.deps.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\bin\Debug\net7.0\03_Records.runtimeconfig.json
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\bin\Debug\net7.0\03_Records.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\bin\Debug\net7.0\03_Records.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.AssemblyInfoInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.AssemblyInfo.cs
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.csproj.CoreCompileInputs.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\obj\Debug\net7.0\refint\03_Records.dll
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.pdb
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.genruntimeconfig.cache
+C:\Nackademin\C-Sharp\Övningar\Lektion-7\03_Records\obj\Debug\net7.0\ref\03_Records.dll
